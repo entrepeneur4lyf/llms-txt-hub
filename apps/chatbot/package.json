@@ -25,7 +25,7 @@
     "@thedaviddias/supabase": "workspace:*",
     "@thedaviddias/utils": "workspace:*",
     "ai": "^4.2.10",
-    "axios": "^1.8.4",
+    "axios": "^1.12.0",
     "cheerio": "^1.0.0",
     "clsx": "^2.1.1",
     "date-fns": "^4.1.0",
